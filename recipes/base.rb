@@ -3,4 +3,4 @@
 # Recipe:: base
 #
 
-require_recipe "cmake"
+# require_recipe "cmake"
