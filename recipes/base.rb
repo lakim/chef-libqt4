@@ -4,3 +4,5 @@
 #
 
 # require_recipe "cmake"
+
+package "xvfb"
